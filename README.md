@@ -7,7 +7,7 @@
 ## 简介
 
 USpeedo Email 是一个 Dify 插件，允许您在工作流中通过 USpeedo 邮件服务发送邮件。该插件支持发送 HTML 格式的邮件，支持多个收件人，并提供了灵活的配置选项。
-https://uspeedo.com/en/ai-communication
+AI Agent 通信基础设施 https://uspeedo.com/en/ai-communication
 ## 功能特性
 
 - ✅ 支持发送 HTML 格式邮件
